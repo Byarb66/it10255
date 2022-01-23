@@ -3,12 +3,16 @@
 ## Executive Summary
 Week 1 assignment. 
 ## Information System Components
+Hardware, software, data, networking communications, and people.
 
 ## GitHub
 ### Client - Server Architecture
+A client-server architecture is the structure of a computer network where many clients can send and receive information from a host computer. Github fits into this category since many people can work on a project and github also acts as a database.
+
 ### Cloud Computing
 
-## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
+Cloud computing is the use of a network of servers to store data that can be accessed remotely from different devices. An example of cloud computing is Microsoft 365. Microsoft is a group of many different applications and cloud storage programs that help send and receive data to many different places.
 
+## Conclusion
+
+During the first week of Introduction to Information systems, I learned many different things about computing systems and the components required to make these computing systems function. 
